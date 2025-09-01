@@ -98,24 +98,24 @@ python excel_combiner.py
 
 
 *   **Choose Processing Method:** You will be prompted to select between an "Optimized" (recommended for speed) and "Standard" cell copying method.
-<p align="center"> <img src="assets/select_method.png" alt="Select Processing Method" width="400"/> </p>
+<p align="center"> <img src="assets/select_method.png" alt="Select Processing Method" width="370"/> </p>
 
 *   **Select Output File:** Choose a folder and a name for the final combined .xlsx file.
 *   **Configure Headers:** Enter the number of header rows to keep from the first file and the number of header rows to discard from the others.
 <p align="center"> <img src="assets/configure_headers_1.png" alt="Configure Header Rows 1" width="400"/> </p>
-<p align="center"> <img src="assets/configure_headers.png" alt="Configure Header Rows 2" width="400"/> </p>
+<p align="center"> <img src="assets/configure_headers_2.png" alt="Configure Header Rows 2" width="400"/> </p>
 
 *   **Include Filename:** A dialog will ask if you want to add a new first column containing the original filename for each row.
-    <p align="center"> <img src="assets/include_filename.png" alt="Include Filename" width="600"/> </p>
+    <p align="center"> <img src="assets/include_filename.png" alt="Include Filename" width="400"/> </p>
 
 *   **Preserve Formulas:** A dialog box will ask if you want to keep formulas or save their calculated values. Choosing 'No' is safer for preventing broken references.
-    <p align="center"> <img src="assets/preserve_formulas.png" alt="Preserve Formulas" width="600"/> </p>
+    <p align="center"> <img src="assets/preserve_formulas.png" alt="Preserve Formulas" width="370"/> </p>
 **3.  Monitor Progress:**
 *   A progress window will appear, showing the current status and a progress bar. You can click "Cancel" at any time to halt the operation.
     <p align="center"> <img src="assets/progress_window.png" alt="Monitor Progress" width="600"/> </p>
 **4.  Verify Success:**
 *   Upon completion, a summary dialog will report the outcome (success, cancellation, or error). The combined file will be located in your chosen output directory.
-    <p align="center"> <img src="assets/completion_report.png" alt="Shows the completion summary dialog" width="670"/> </p>    
+    <p align="center"> <img src="assets/completion_report.png" alt="Shows the completion summary dialog" width="370"/> </p>    
 
 ## Project Structure
 
@@ -180,4 +180,4 @@ Combine smarter, not harder!
 **Version:** 4  
 **Concept Date:** 2024-05-22 
 
-<p align="center"><img src="assets/excel_combiner_banner_2.png" alt="CombineXL Banner 2" width="800"/> </p>
+<p align="left"><img src="assets/excel_combiner_banner_2.png" alt="CombineXL Banner 2" width="600"/> </p>
